@@ -1,0 +1,7 @@
+# Python
+Python
+Folders worth looking: 
+  - ML-bootcamp: ML contest from mail.ru http://mlbootcamp.ru/sandbox/
+  - My_hand_recognition: Classification of handwritten digits
+  - Image_objecting+netw: getting images from vk and find clusters of pixels in them. 
+      (networking part is still waiting for rescue from data backup)
